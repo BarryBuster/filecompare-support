@@ -1,0 +1,58 @@
+name: Підтримка FileCompare
+description: Повідомити про відтворювану проблему без передавання документів або секретів
+title: "[Підтримка] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Звернення та відповіді є публічними. Не додавайте документи, уривки їхнього вмісту, персональні дані, Apple ID, чеки, паролі, ключі або інші секрети.
+  - type: input
+    id: filecompare-version
+    attributes:
+      label: Версія FileCompare
+      description: Відкрийте меню FileCompare → Про FileCompare та перепишіть версію.
+      placeholder: 1.0.0 (1)
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: Версія macOS і модель Mac
+      placeholder: macOS 14.7, MacBook Air M2
+    validations:
+      required: true
+  - type: input
+    id: formats
+    attributes:
+      label: Формати файлів
+      description: Назвіть лише формати, без назв файлів і без їхнього вмісту.
+      placeholder: DOCX і PDF
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Кроки відтворення
+      description: Опишіть точну послідовність дій.
+    validations:
+      required: true
+  - type: textarea
+    id: actual-result
+    attributes:
+      label: Фактичний результат
+      description: Наведіть видимий текст помилки, але не дані з документів.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-result
+    attributes:
+      label: Очікуваний результат
+    validations:
+      required: true
+  - type: checkboxes
+    id: safe-content
+    attributes:
+      label: Перевірка безпеки
+      options:
+        - label: Я не додаю документи, їхній вміст, персональні дані, Apple ID, чеки, паролі, ключі або інші секрети.
+          required: true
