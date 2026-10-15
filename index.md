@@ -57,6 +57,6 @@ FileCompare не обіцяє OCR, автоматичне порівняння �
 
 ---
 
-Зроблено **BarryBuster**. FileCompare · версія **1.0.0**.
+Зроблено **Barry Buster**. FileCompare · версія **1.0.0**.
 
 © 2026 Lyubomyr Manko. Усі права захищено.

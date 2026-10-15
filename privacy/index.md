@@ -100,6 +100,6 @@ https://developer.apple.com/help/app-store-connect/manage-app-information/manage
 
 ---
 
-Зроблено **BarryBuster**. FileCompare · версія **1.0.0**.
+Зроблено **Barry Buster**. FileCompare · версія **1.0.0**.
 
 © 2026 Lyubomyr Manko. Усі права захищено.
