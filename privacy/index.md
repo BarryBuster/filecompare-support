@@ -97,3 +97,9 @@ https://github.com/BarryBuster/filecompare-support/issues/new/choose
 
 Вимоги Apple до App Privacy:
 https://developer.apple.com/help/app-store-connect/manage-app-information/manage-app-privacy/
+
+---
+
+Зроблено **BarryBuster**. FileCompare · версія **1.0.0**.
+
+© 2026 Lyubomyr Manko. Усі права захищено.

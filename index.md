@@ -54,3 +54,9 @@ https://github.com/BarryBuster/filecompare-support/issues/new/choose
 FileCompare не обіцяє OCR, автоматичне порівняння зображень, редагування чи
 злиття документів, точне сторінкове відтворення DOCX/RTF або перевірку всіх
 таблиць, форм, анотацій, коментарів і відстежених правок.
+
+---
+
+Зроблено **BarryBuster**. FileCompare · версія **1.0.0**.
+
+© 2026 Lyubomyr Manko. Усі права захищено.
